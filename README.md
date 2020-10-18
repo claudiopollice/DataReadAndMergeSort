@@ -98,6 +98,3 @@ Non-compliant value: 2.
 Line content: 2	Harmonize Lactobacillus acidophilus sourcing	2014-01-01 00:00:00.000	Dairy	Daisy Milks	NULL	NULL	Simple.
 Error occured in line: 1.
 ```
-More error use cases can be find in the unit tests, or implemented tested by you.
-
-# How long will it take?
