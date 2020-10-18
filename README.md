@@ -1,6 +1,6 @@
 # About the app
 
-Commandline app.
+Commandline app for reading and sorting data files.
 * Currently implementation configured for reading CSV / TSV but intended for more generic data files.
 * Using CSVReader does not add benefit over current impl.
 * Other data type configurations easily added. 
@@ -51,7 +51,6 @@ Build without unit tests: ```mvn clean install -DskipTests```
 * add file with option ```-f``` or ```--file```
 * enable sort by start date with option ```-s``` or ```--sortByStartDate```
 * enable filter ```<project-name>``` with option ```-p <project-name>``` or ```--project <project-name>```
-
 
 ### Easy to run happy flow use cases (from root of project):
 
