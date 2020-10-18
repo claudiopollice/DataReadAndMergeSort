@@ -1,0 +1,56 @@
+2	Harmonize Lactobacillus acidophilus sourcing	2014-01-01 00:00:00.000	Dairy	Daisy Milks	NULL	NULL	Simple
+3	Substitute Crème fraîche with evaporated milk in ice-cream products	2013-01-01 00:00:00.000	Dairy	Daisy Milks	141415.942696	EUR	Moderate
+
+3	Substitute Crème fraîche with evaporated milk in ice-cream products	2013-01-01 00:00:00.000	Dairy	Daisy Milks	141415.942696	EUR	Moderate
+4	Decrease production related non-categorized side costs	2013-01-01 00:00:00.000	Dairy	Daisy Milks	11689.322459	EUR	Hazardous
+4	Decrease production related non-categorized side costs	2013-01-01 00:00:00.000	Dairy	Daisy Milks	11689.322459	EUR	Hazardous
+5	Stop using Kryptonite in production	2013-04-01 00:00:00.000	Dairy	Clark Kent	NULL	NULL	Moderate
+
+6	Black and white logo paper	2012-06-01 00:00:00.000	Office supplies	Clark Kent	4880.199567	EUR	Simple
+
+6	Black and white logo paper	2012-06-01 00:00:00.000	Office supplies	Clark Kent	4880.199567	EUR	Simple
+# Input file contents are between the two lines marked with stars
+2	Harmonize Lactobacillus acidophilus sourcing	2014-01-01 00:00:00.000	Dairy	Daisy Milks	NULL	NULL	Simple
+3	Substitute Crème fraîche with evaporated milk in ice-cream products	2013-01-01 00:00:00.000	Dairy	Daisy Milks	141415.942696	EUR	Moderate
+
+3	Substitute Crème fraîche with evaporated milk in ice-cream products	2013-01-01 00:00:00.000	Dairy	Daisy Milks	141415.942696	EUR	Moderate
+
+
+4	Decrease production related non-categorized side costs	2013-01-01 00:00:00.000	Dairy	Daisy Milks	11689.322459	EUR	Hazardous
+4	Decrease production related non-categorized side costs	2013-01-01 00:00:00.000	Dairy	Daisy Milks	11689.322459	EUR	Hazardous
+5	Stop using Kryptonite in production	2013-04-01 00:00:00.000	Dairy	Clark Kent	NULL	NULL	Moderate
+
+6	Black and white logo paper	2012-06-01 00:00:00.000	Office supplies	Clark Kent	4880.199567	EUR	Simple
+6	Black and white logo paper	2012-06-01 00:00:00.000	Office supplies	Clark Kent	4880.199567	EUR	Simple
+# Input file contents are between the two lines marked with stars
+# Input file contents are between the two lines marked with stars
+
+
+# Input file contents are between the two lines marked with stars
+# Input file contents are between the two lines marked with stars
+3	Harmonize Lactobacillus acidophilus sourcing	2014-01-01 00:00:00.000	Dairy	Daisy Milks	NULL	NULL	Simple
+5	Substitute Crème fraîche with evaporated milk in ice-cream products	2013-01-01 00:00:00.000	Dairy	Daisy Milks	141415.942696	EUR	Moderate
+
+5	Substitute Crème fraîche with evaporated milk in ice-cream products	2013-01-01 00:00:00.000	Dairy	Daisy Milks	141415.942696	EUR	Moderate
+
+5	Decrease production related non-categorized side costs	2013-01-01 00:00:00.000	Dairy	Daisy Milks	11689.322459	EUR	Hazardous
+4	Decrease production related non-categorized side costs	2013-01-01 00:00:00.050	Dairy	Daisy Milks	11689.322459	EUR	Hazardous
+5	Stop using Kryptonite in production	2013-04-01 00:00:00.000	Dairy	Clark Kent	NULL	NULL	Moderate
+2	Black and white logo paper	2012-06-01 00:00:00.000	Office supplies	Clark Kent	4880.199567	EUR	Simple
+1	Black and white logo paper	2012-06-03 00:00:00.000	Office supplies	Clark Kent	4880.199567	EUR	Simple
+1	Harmonize Lactobacillus acidophilus sourcing	2014-01-01 00:00:00.000	Dairy	Daisy Milks	NULL	NULL	Simple
+2	Substitute Crème fraîche with evaporated milk in ice-cream products	2013-01-01 00:00:00.000	Dairy	Daisy Milks	141415.942696	EUR	Moderate
+4	Substitute Crème fraîche with evaporated milk in ice-cream products	2013-01-02 00:00:00.000	Dairy	Daisy Milks	141415.942696	EUR	Moderate
+3	Decrease production related non-categorized side costs	2013-01-01 00:00:00.000	Dairy	Daisy Milks	11689.322459	EUR	Hazardous
+2	Decrease production related non-categorized side costs	2013-01-01 00:00:00.000	Dairy	Daisy Milks	11689.322459	EUR	Hazardous
+1	Stop using Kryptonite in production	2013-04-01 00:00:00.000	Dairy	Clark Kent	NULL	NULL	Moderate
+1	Black and white logo paper	2012-06-01 00:00:00.000	Office supplies	Clark Kent	4880.199567	EUR	Simple
+2	Black and white logo paper	2012-06-01 00:00:00.000	Office supplies	Clark Kent	4880.199567	EUR	Simple
+4	Harmonize Lactobacillus acidophilus sourcing	2014-03-01 00:00:00.000	Dairy	Daisy Milks	NULL	NULL	Simple
+6	Substitute Crème fraîche with evaporated milk in ice-cream products	2013-01-01 00:00:00.000	Dairy	Daisy Milks	141415.942696	EUR	Moderate
+6	Substitute Crème fraîche with evaporated milk in ice-cream products	2013-01-01 00:00:00.000	Dairy	Daisy Milks	141415.942696	EUR	Moderate
+5	Decrease production related non-categorized side costs	2013-05-01 00:00:00.000	Dairy	Daisy Milks	11689.322459	EUR	Hazardous
+6	Decrease production related non-categorized side costs	2013-01-01 00:00:00.000	Dairy	Daisy Milks	11689.322459	EUR	Hazardous
+3	Stop using Kryptonite in production	2013-04-01 00:00:00.000	Dairy	Clark Kent	NULL	NULL	Moderate
+2	Black and white logo paper	2012-06-01 00:00:00.000	Office supplies	Clark Kent	4880.199567	EUR	Simple
+1	Black and white logo paper	2012-06-01 00:00:00.000	Office supplies	Clark Kent	4880.199567	EUR	Simple
