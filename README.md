@@ -2,7 +2,7 @@
 
 Commandline app for reading and sorting data files.
 * Currently implementation configured for reading CSV / TSV but intended for more generic data files.
-* Using CSVReader does not add benefit over current impl.
+* Using CSVReader / libs does not add benefit over current impl in performance (tested) or imo readability/testability/maintainability.
 * Other data type configurations easily added. 
 * Reads into memory line by line and sorts in memory by default.
 * Uses merge sort after file size is beyond configurable size
